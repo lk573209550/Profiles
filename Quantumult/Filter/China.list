@@ -1,4 +1,6 @@
 # China Area Network
+#test
+DOMAIN-SUFFIX,mea.meitudata.com,REJECT
 # > 360
 DOMAIN-SUFFIX,qhres.com,DIRECT
 DOMAIN-SUFFIX,qhimg.com,DIRECT
@@ -359,7 +361,6 @@ DOMAIN-SUFFIX,zhihu.com,DIRECT
 DOMAIN-SUFFIX,zhihuishu.com,DIRECT
 DOMAIN-SUFFIX,zhimg.com,DIRECT
 DOMAIN-SUFFIX,zhuihd.com,DIRECT
-
 DOMAIN,download.jetbrains.com,DIRECT
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 
